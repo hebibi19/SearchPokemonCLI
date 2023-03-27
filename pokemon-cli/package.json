@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-cli",
+  "version": "1.0.0",
+  "description": "A CLI to search for specific pokemon cards from different sets",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "contributors": [
+    "Jacqueline Molina",
+    "Gabriel Espejel"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "pokemontcgsdk": "^2.0.0",
+    "prompts": "^2.4.2",
+    "yargs": "^17.7.1"
+  }
+}
